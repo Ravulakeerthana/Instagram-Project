@@ -1,0 +1,23 @@
+body {
+    background-color: #f0f2f5;
+    font-family: Arial, sans-serif;
+    background-image: url(https://images.complex.com/complex/images/c_fill,f_auto,g_center,w_1200/fl_lossy,pg_1/tljzccguuj9gz6morfrm/instagram);
+    background:no-repeat;
+    background-size: contain;
+}
+.container {
+    max-width: 400px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 4px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.form-group {
+    margin-bottom: 20px;
+}
+.signup-link {
+    text-decoration: none;
+    color: #1877f2; /* Facebook blue color */
+}
